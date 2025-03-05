@@ -1,3 +1,5 @@
+#4- Dado un diccionario, invierte sus claves y valores.
+
 diccionario={
     "jose":1,
     "juan":3,
@@ -5,7 +7,8 @@ diccionario={
 }
 diccionario_2={}
 
-for clave,valor in diccionario.items():
-    diccionario_2[valor]=clave
+for clave in diccionario:
+    valor = diccionario[clave]
+    diccionario_2[valor] = clave
     
 print(diccionario_2)
