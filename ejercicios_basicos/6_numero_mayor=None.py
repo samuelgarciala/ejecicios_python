@@ -1,3 +1,5 @@
+#6- Algoritmo que lea dos números y nos diga cuál de ellos es mayor o bien si son iguales (recuerda usar la estructura
+#condicional.
 def mensaje_inicio():
     print("introduzca un numero")
 

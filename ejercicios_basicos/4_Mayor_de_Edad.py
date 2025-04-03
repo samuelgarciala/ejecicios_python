@@ -1,4 +1,4 @@
-#Diseña un programa que solicite al usuario su edad,
+#4 Diseña un programa que solicite al usuario su edad,
 # y a continuación indique si es mayor o menor de edad.
 def entrada_de_datos():
     print("introduzca su edad:")

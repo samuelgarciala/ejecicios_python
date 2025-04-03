@@ -6,6 +6,7 @@ diferencia=mi_set.difference(mi_set_2)
 subconjunto=mi_set_2.issubset(mi_set)
 superconjunto=mi_set.issuperset(mi_set_2)
 disconjuntos=mi_set.isdisjoint(mi_set_2)
+
 print(disconjuntos)
 
 list()

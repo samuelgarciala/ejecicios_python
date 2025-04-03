@@ -32,9 +32,7 @@
 
 
 
-
-#sumar valores de un diccionario
-
+#1- Sumar los valores de un diccionario.
 def suma_de_valores_diccionario(diccionario):
     suma=0
     for clave in diccionario:

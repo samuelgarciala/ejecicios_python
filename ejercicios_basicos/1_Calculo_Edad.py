@@ -1,4 +1,4 @@
-#Escribir un programa que pida el año actual y de nacimiento delusuario. 
+#Escribir un programa que pida el año actual y de nacimiento del usuario. 
 #Debe calcular su edad, suponiendo que en el año en curso el usuario ya ha cumplido año
 
 def entrada_de_datos_año_actual():
